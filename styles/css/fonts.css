@@ -1,0 +1,66 @@
+/* Poppins */
+@font-face {
+	font-family: "Poppins";
+	src: url('../fonts/Poppins/woff2/Poppins-ExtraBold.woff2') format("woff2"),
+			 url('../fonts/Poppins/ttf/Poppins-ExtraBold.ttf') format("truetype");
+	font-style: normal;
+	font-weight: 800;
+}
+
+@font-face {
+	font-family: "Poppins";
+	src: url('../fonts/Poppins/woff2/Poppins-Bold.woff2') format("woff2"),
+			 url('../fonts/Poppins/ttf/Poppins-Bold.ttf') format("truetype");
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "Poppins";
+	src: url('../fonts/Poppins/woff2/Poppins-SemiBold.woff2') format("woff2"),
+			 url('../fonts/Poppins/ttf/Poppins-SemiBold.ttf') format("truetype");
+	font-style: normal;
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: "Poppins";
+	src: url('../fonts/Poppins/woff2/Poppins-Regular.woff2') format("woff2"),
+			 url('../fonts/Poppins/ttf/Poppins-Regular.ttf') format("truetype");
+	font-style: normal;
+	font-weight: 400;
+}
+
+/* Open Sans */
+@font-face {
+	font-family: "Open Sans";
+	src: url('../fonts/Open_Sans/woff2/OpenSans-SemiBold.woff2') format("woff2"),
+			 url('../fonts/Open_Sans/ttf/OpenSans-SemiBold.ttf') format("truetype");
+	font-style: normal;
+	font-weight: 600;
+}
+
+/* Manrope */
+@font-face {
+	font-family: "Manrope";
+	src: url('../fonts/Manrope/woff2/Manrope-Regular.woff2') format("woff2"),
+			 url('../fonts/Manrope/ttf/Manrope-Regular.ttf') format("truetype");
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Manrope";
+	src: url('../fonts/Manrope/woff2/Manrope-Medium.woff2') format("woff2"),
+			 url('../fonts/Manrope/ttf/Manrope-Medium.ttf') format("truetype");
+	font-style: normal;
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: "Manrope";
+	src: url('../fonts/Manrope/woff2/Manrope-SemiBold.woff2') format("woff2"),
+			 url('../fonts/Manrope/ttf/Manrope-SemiBold.ttf') format("truetype");
+	font-style: normal;
+	font-weight: 600;
+}

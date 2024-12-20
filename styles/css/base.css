@@ -1,0 +1,25 @@
+:root {
+	--white-background-color: #ffffff;
+	--accnt-background-color: #E43071;
+	--gray-color: #424242;
+	--white-color: #ffffff;
+	--accent-color: #E43071;
+
+	--button-default-background-color: #E43071;
+	--button-hover-background-color: #BE285E;
+	--button-focus-outside-style: 8px solid #FFDAE7;
+	--button-disabled-background-color: #D37899;
+
+	--button-default-outside-color: 2px solid #E43071;
+	--button-hover-outside-color: 2px solid #BE285E;
+	--button-disabled-outside-color: 2px solid #D37899;
+
+	--animation-style: 0.3s ease-in-out;
+
+	--container-desktop-width-y: 1131px;
+	--container-mobile-width-y: 288px;
+	--container-margin: 0 auto;
+
+	--deafault-box-shadow-style: 1px 4px 8px 0 rgba(0, 0, 0, 0.18);
+
+}
